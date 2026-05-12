@@ -9,7 +9,7 @@ This repository is a comprehensive collection of code and resources that allow y
 The repository provides a user-friendly and interactive Colab notebook that guides you through the process step-by-step. It offers pre-trained models, datasets, and various image processing techniques to achieve accurate and realistic face swaps and enhancements. Whether you're interested in creating hilarious face-swapped videos or improving the appearance of facial attributes, this repository has got you covered.
 
 
-[Open in Colab](https://colab.research.google.com/github/neuromodern/VideoFake/blob/main/VideoFake_colab.ipynb)
+[Open in Colab](https://colab.research.google.com/github/cmavideodf/VideoFake/blob/main/VideoClean_colab.ipynb)
 
-<a href="https://colab.research.google.com/github/neuromodern/VideoFake/blob/main/VideoFake_colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/cmavideodf/VideoFake/blob/main/VideoClean_colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
