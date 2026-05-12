@@ -1,4 +1,4 @@
-# VideoFake / Face Swap & Face Enhance Video Colab (English) based on Roop without NSFW filter
+# Video Clean / Face Swap & Face Enhance Video Colab (English) based on Roop without NSFW filter
 
 UPD feb 13 2025: [NVIDIA CUDA dependency for GPU and a new model host](https://github.com/neuromodern/VideoFake/releases/tag/1.0.1).
 
